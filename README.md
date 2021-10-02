@@ -2,4 +2,4 @@
 
 * Harrison Felipe Velandia Pinto 20171020079
 * Brayan Eduardo Ascanio Ascanio 20171020063
-* David Santiago Martinez 
+* David Santiago Martinez Blanco 20171020150
